@@ -1,1 +1,1 @@
-# tp1-poo_api_et_outillages
+[![Java CI](https://github.com/AxelVilleret/tp1-poo_api_et_outillages/actions/workflows/run-tests.yml/badge.svg)](https://github.com/AxelVilleret/tp1-poo_api_et_outillages/actions/workflows/run-tests.yml)
